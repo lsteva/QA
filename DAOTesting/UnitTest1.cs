@@ -10,6 +10,8 @@ namespace DAOTesting
     [TestClass]
     public class UnitTest1
     {
+
+        //testiranje promene na git-u
         static string connectionStringNaKursu = "Data Source=.\\SQLEXPRESS;Initial Catalog=DotNetKurs;User ID=sa;Password=SqlServer2016;MultipleActiveResultSets=True";
         static string connectionStringZaPoKuci = "Data Source=192.168.100.19,6433\\SQLEXPRESS;Initial Catalog=DotNetKurs;User ID=sa;Password=1;MultipleActiveResultSets=True";
 
